@@ -1,4 +1,4 @@
-import com.dc.demo.Product;
+package com.dc.demo;
 
 import java.util.Date;
 
@@ -25,6 +25,6 @@ public class Main {
         System.out.println("The manufacturer is " + P1.manufacturer_name);
         System.out.println("The manufacturer is " + Product.manufacturer_name);
 
-        
+
     }
 }
