@@ -1,3 +1,7 @@
+//Name: Sanyam Singh Sachdeva
+//Date: Mar 3, 2025
+//Description: Practice using Methods and Functions in Java.
+
 import java.util.Arrays;
 import java.util.Scanner;
 
