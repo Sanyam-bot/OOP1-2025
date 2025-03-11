@@ -81,7 +81,7 @@ public class Main {
      * @return the largest integer in the array.
      */
     private static int findMax(int[] integerArray) {
-        int maxValue = integerArray[0];
+        int maxValue = Integer.MIN_VALUE;
 
         for (int element: integerArray) {
             if (element > maxValue){
